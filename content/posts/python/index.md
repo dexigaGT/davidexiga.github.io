@@ -15,9 +15,7 @@ image:
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-<!-- {{< img src="cyber_truck.jpg" >}}
-{{< img src="RCReal.jpg" >}}
-{{< img src="RCReal.png" >}} -->
+
 (src="RCReal.png")
 ## Video
 
