@@ -20,21 +20,8 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{</* video src="rc_car_driving.mp4" controls="yes" */>}}
 
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="rc_car_driving.mp4" controls="yes" */>}}
 
 ## Podcast
 
