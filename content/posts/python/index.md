@@ -20,7 +20,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{</* video src="rc_car_driving.mp4" controls="yes" */>}}
+{{< video src="rc_car_driving.mp4" controls="yes" >}}
 
 
 ## Podcast
