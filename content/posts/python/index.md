@@ -15,22 +15,13 @@ image:
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
+{{< image src="cyber_truck.jpg" >}}
+{{< image src="RCReal.jpg" >}}
+{{< image src="RCReal.png" >}}
 ## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 {{< video src="rc_car_driving.mp4" controls="yes" >}}
-
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
 
 
