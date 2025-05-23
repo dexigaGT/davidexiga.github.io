@@ -44,8 +44,8 @@ interests:
   - High Performance Computing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Master's in Computer Science
+    institution: Georgia Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
