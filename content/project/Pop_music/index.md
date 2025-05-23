@@ -6,6 +6,6 @@ tags:
   - Deep Learning
 ---
 
-Generated Pop Music using Long short-term memory (LSTM) recurrent neural networks (RNN)
+Generated Pop Music using Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNN)
 
 <!--more-->
