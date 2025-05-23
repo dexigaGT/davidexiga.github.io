@@ -1,6 +1,6 @@
 ---
 title: Pop Music Generation 
-date: 2021-5-6
+date: 2021-05-06
 external_link: https://david-exiga.medium.com/music-generation-using-lstm-neural-networks-44f6780a4c5
 ---
 
