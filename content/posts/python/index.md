@@ -1,27 +1,21 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: RC Cyber Truck
+summary: Fully Machined an RC Car to Withstand Crashes
+date: 2021-05-10
 type: docs
 math: false
 tags:
-  - Python
+  - Mechanical Engineering
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
+RC Cyber Truck
+## Images
 ![Alt text](RCReal.png)
 ![Alt text](cyber_truck.JPG)
 ![Alt text](RCReal.jpg)
 ## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 {{< video src="rc_car_driving.mp4" controls="yes" >}}
 
