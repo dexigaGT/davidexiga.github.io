@@ -1,9 +1,13 @@
 ---
-title: Pop Music Generation 
-date: 2021-05-06
-external_link: https://david-exiga.medium.com/music-generation-using-lstm-neural-networks-44f6780a4c5
+title: Pandas
+date: 2023-10-26
+external_link: https://github.com/pandas-dev/pandas
+tags:
+  - Hugo
+  - Wowchemy
+  - Markdown
 ---
 
-Generated Pop Music using Long short-term memory (LSTM) recurrent neural networks (RNN)
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->
