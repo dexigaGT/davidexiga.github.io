@@ -1,0 +1,19 @@
+<style>
+/* 🔧 Fix: ensure headings inside prose follow their container text color (respect dark mode) */
+.page-wrapper .prose h1,
+.page-wrapper .prose h2,
+.page-wrapper .prose h3,
+.page-wrapper .prose h4,
+.page-wrapper .prose h5,
+.page-wrapper .prose h6,
+.page-wrapper .prose .text-3xl {
+  color: inherit !important;
+}
+
+/* Also ensure strong/emphasis and links inside those sections inherit color */
+.page-wrapper .prose strong,
+.page-wrapper .prose em,
+.page-wrapper .prose a {
+  color: inherit;
+}
+</style>
