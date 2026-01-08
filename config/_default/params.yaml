@@ -17,13 +17,11 @@ marketing:
     description: 'David Exiga personal academic website.'
     twitter: ''
   analytics:
-    google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
     baidu: ''
 
 # Site header
